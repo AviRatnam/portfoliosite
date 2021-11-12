@@ -1,10 +1,13 @@
-const Card = ({ title, subtitle, link }) => {
-  const cardstyle = "rounded-md px-5 py-4 font-sans font-bold text-xl border-2 border-gray-200 hover:bg-yellow-200";
+import { useState } from "react";
+
+const Card = ({ title, description, link }) => {
+  const cardstyle =
+    "rounded-md px-5 py-4 font-sans font-bold text-xl border-2 border-gray-600 hover:bg-yellow-brightyellowcrayola";
 
   return (
     <a href={link}>
       <div class={cardstyle}>
-        <div class="border-l-2 border-black px-2">{title}</div>
+        <div class="border-l-2 border-black px-2 text-gray-800">{title}</div>
       </div>
     </a>
   );
