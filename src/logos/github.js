@@ -2,7 +2,7 @@ const Github = () => {
   return (
     <a href="https://github.com/AviRatnam">
       <svg
-        width="25"
+        width="30"
         height="24"
         viewBox="0 0 256 249"
         xmlns="http://www.w3.org/2000/svg"

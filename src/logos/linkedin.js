@@ -3,7 +3,7 @@ const Linkedin = () => {
     <a href="https://www.linkedin.com/in/avinashratnam/">
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width="25"
+        width="30"
         height="23"
         viewBox="0 5 1036 990"
       >
