@@ -1,6 +1,7 @@
 import Linkedin from "./logos/linkedin";
 import Medium from "./logos/medium";
 import Github from "./logos/github";
+import Hackerrank from "./logos/hackerrank";
 
 const IntroPanel = () => {
   return (
@@ -16,6 +17,7 @@ const IntroPanel = () => {
           <Linkedin />
           <Medium />
           <Github />
+          <Hackerrank/>
         </div>
       </div>
     </div>

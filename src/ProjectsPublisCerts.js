@@ -2,7 +2,7 @@ import Card from "./Card";
 
 const ProjectsPublisPapers = () => {
   return (
-    <div class="pt-8 font-sans font-bold text-4xl pl-28 ">
+    <div class="pt-8 font-sans font-bold text-4xl md:pl-28 pl-20">
       <div class="border-l-4 border-black px-2">
         Projects, Publications and Certifications
       </div>
@@ -26,7 +26,7 @@ const ProjectsPublisPapers = () => {
           />
         </div>
       </div>
-      <div class="md:flex gap-10 pr-28">
+      <div class="md:flex gap-10 pr-20">
         <div class="py-7">
           <Card
             title="Research Paper Nov. 2020"
