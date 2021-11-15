@@ -21,7 +21,7 @@ export const Html = () => {
           fill="#fff"
         />
       </svg>
-      <div class="text-xs mx-3 text-gray-500">HTML</div>
+      <div class="text-xs px-3 text-gray-500">HTML</div>
     </div>
   );
 };
@@ -49,7 +49,7 @@ export const Css = () => {
           fill="#fff"
         />
       </svg>
-      <div class="text-xs mx-4 text-gray-500">CSS</div>
+      <div class="text-xs px-4 text-gray-500">CSS</div>
     </div>
   );
 };
@@ -68,7 +68,7 @@ export const Tailwindcss = () => {
           fill="#06b6d4"
         />
       </svg>
-      <div class="text-xs mx-3 text-gray-500">Tailwindcss</div>
+      <div class="text-xs px-3 text-gray-500">Tailwindcss</div>
     </div>
   );
 };
@@ -87,7 +87,7 @@ export const React = () => {
           <circle cx="420.9" cy="296.5" r="45.7" />
         </g>
       </svg>
-      <div class="text-xs mx-3 text-gray-500">React</div>
+      <div class="text-xs px-3 text-gray-500">React</div>
     </div>
   );
 };
@@ -107,7 +107,7 @@ export const Js = () => {
           fill="#323330"
         />
       </svg>
-      <div class="text-xs mx-1 text-gray-500">Javascript</div>
+      <div class="text-xs px-1 text-gray-500">Javascript</div>
     </div>
   );
 };
@@ -173,7 +173,7 @@ export const Python = () => {
           fill="url(#b)"
         />
       </svg>
-      <div class="text-xs mx-2 text-gray-500">Python</div>
+      <div class="text-xs px-2 text-gray-500">Python</div>
     </div>
   );
 };
@@ -213,7 +213,7 @@ export const C = () => {
           fill="#FFF"
         />
       </svg>
-      <div class="text-xs mx-4 text-gray-500">C++</div>
+      <div class="text-xs px-4 text-gray-500">C++</div>
     </div>
   );
 };

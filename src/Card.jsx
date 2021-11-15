@@ -1,8 +1,8 @@
-import { useState } from "react";
+// import { useState } from "react";
 
-const Card = ({ title, description, link }) => {
+const Card = ({ title, link }) => {
   const cardstyle =
-    "rounded-md px-5 py-4 font-sans font-bold text-xl border-2 border-gray-600 hover:bg-yellow-brightyellowcrayola";
+    "rounded-md px-10 py-20 font-sans font-bold text-xl border-2 border-gray-600 hover:bg-yellow-brightyellowcrayola";
 
   return (
     <a href={link}>
