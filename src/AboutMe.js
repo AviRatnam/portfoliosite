@@ -1,8 +1,7 @@
 const AboutMe = () => {
   return (
-    <div class="pt-16 font-sans font-bold text-4xl ">
+    <div class="pt-16 font-sans font-bold text-4xl pl-28 ">
       <div class="border-l-4 border-black px-2">About me</div>
-
       <div class="lg:flex lg:justify-between">
         <div class="text-xl pt-7 text-gray-800 max-w-3xl">
           I'm an engineering student at PES University, Bangalore, India. I love

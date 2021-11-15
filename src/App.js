@@ -5,14 +5,12 @@ import ProjectsPublisPapers from "./ProjectsPublisCerts";
 
 function App() {
   return (
-    <>
+    <div class="overflow-hidden">
       <IntroPanel />
-      <div class="md:w-screen md:h-screen pl-28">
-        <AboutMe />
-        <TechIUse />
-        <ProjectsPublisPapers />
-      </div>
-    </>
+      <AboutMe />
+      <TechIUse />
+      <ProjectsPublisPapers />
+    </div>
   );
 }
 
