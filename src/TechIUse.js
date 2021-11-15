@@ -11,7 +11,7 @@ import {
 
 const TechIUse = () => {
   return (
-    <div class="pt-16 font-sans font-bold text-4xl md:pl-28 pl-20">
+    <div class="pt-16 font-sans font-bold text-4xl md:pl-28 pl-10">
       <div class="border-l-4 border-black px-2 ">Technology I use</div>
       <div class="grid grid-cols-4 my-7 gap-y-7 gap-x-1">
         <Html />

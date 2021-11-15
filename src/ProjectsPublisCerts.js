@@ -2,7 +2,7 @@ import Card from "./Card";
 
 const ProjectsPublisPapers = () => {
   return (
-    <div class="pt-8 font-sans font-bold text-4xl md:pl-28 pl-20">
+    <div class="pt-8 font-sans font-bold text-4xl md:pl-28 pl-10">
       <div class="border-l-4 border-black px-2">
         Projects, Publications and Certifications
       </div>
